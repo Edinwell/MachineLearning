@@ -1,0 +1,11 @@
+<MIT - Artificial Intelligence>
+Auth:Prof. Patrick Henry Winston
+URL:https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm
+
+<Numeric Analysis>
+Auth:Justin Salomon
+URL:https://www.youtube.com/user/justinmsolomon/videos
+
+<Machine Learning with Python>
+Auth:sendtex
+URL:https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
